@@ -8,4 +8,4 @@ With this module you can query a Wordpress Easy Digital Download Plugin and show
 * run migration (optionally, if not run by freescout)
 * go to EasyDigitalDownload settings for each mailbox and configure the Store URL, API Key and API Token.
 <img width="714" alt="easy digital downloads" src="https://user-images.githubusercontent.com/84848350/119823377-5ddccc80-bf12-11eb-9951-5505e6e0a744.png">
- 
+* go to your WordPress admin panel, EDD > Tools > API Keys, copy over the Token and Secret Key.
